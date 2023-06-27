@@ -1,0 +1,27 @@
+header{
+    text-transform: uppercase;
+    text-align: center;
+    padding: 32px;
+    background-color: #0B0825;
+    color: aliceblue;
+    border-bottom: 2px solid yellow;
+}
+*{
+    box-sizing: border-box;
+}
+.gallery{
+    width: 100%;
+    max-width: 21.9rem;
+    height: 300px;
+    margin: 1px auto;
+}
+body{
+    text-align: center;
+    /* box-align: center; */
+    margin: 0;
+}
+.gallery img{
+    max-width: 21.9rem;
+    /* height: 300px; */
+    margin: 1px auto;
+}
